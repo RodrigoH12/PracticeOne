@@ -1,2 +1,1 @@
-/***** My new Rebase Edition *******/
-
+/* My Other Edition */
